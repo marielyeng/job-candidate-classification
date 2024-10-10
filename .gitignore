@@ -1,0 +1,15 @@
+# Virtual Environment
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Data Files
+data/preprocessed_students_perf.csv
+
+# Model Files
+app/model/*.pkl
+
+# Environment Variables
+.env
